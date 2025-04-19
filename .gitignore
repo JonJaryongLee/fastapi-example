@@ -1,0 +1,9 @@
+# tests
+venv
+__pycache__
+*.db
+.env.local
+.env
+.pytest_cache
+.vscode
+.coverage
